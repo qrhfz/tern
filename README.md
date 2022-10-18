@@ -21,5 +21,5 @@ import "github.com/qrhfz/tern"
 ## Example
 
 ```go
-PORT = tern.E(production, 80, 8000)
+PORT := tern.E(production, 80, 8000)
 ```
